@@ -15,5 +15,5 @@ public class LogMessage {
 
     private String type;
 
-    private String message;
+    private String body;
 }
